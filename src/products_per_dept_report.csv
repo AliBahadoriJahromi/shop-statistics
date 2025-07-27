@@ -1,0 +1,53 @@
+department,product_name_1,product_name_2,confidence,support
+produce,Organic Hass Avocado,Bag of Organic Bananas,0.018443856747631642,0.34820143884892085
+produce,Organic Raspberries,Bag of Organic Bananas,0.013566142566439803,0.3369935630443014
+produce,Organic Strawberries,Bag of Organic Bananas,0.023428270926537053,0.29732082406422283
+produce,"Clementines, Bag",Banana,0.0035515856381803075,0.3546423135464231
+produce,Honeycrisp Apple,Banana,0.009381978370386177,0.36441681468324455
+produce,Organic Cilantro,Limes,0.007674778406969034,0.2911246024862677
+produce,Red Vine Tomato,Banana,0.004527128474418675,0.27474560592044406
+produce,Strawberries,Banana,0.01484654253900266,0.32321221171395387
+produce,Roma Tomato,Banana,0.004359457049440206,0.3071965628356606
+produce,Apple Honeycrisp Organic,Bag of Organic Bananas,0.0052359213163731145,0.32072829131652664
+produce,Red Peppers,Banana,0.006386757005998064,0.2931094788387548
+produce,Bartlett Pears,Banana,0.0035515856381803075,0.39863130881094955
+produce,Organic Peeled Whole Baby Carrots,Banana,0.004923442751640512,0.27465986394557823
+produce,Granny Smith Apples,Banana,0.003307699929120716,0.3411949685534591
+produce,Organic Cucumber,Bag of Organic Bananas,0.009663971221486331,0.2795414462081129
+produce,Organic Garnet Sweet Potato (Yam),Bag of Organic Bananas,0.004816742753926941,0.25219473264166004
+produce,Bunched Cilantro,Banana,0.003589692780220869,0.2526824034334764
+produce,Organic Avocado,Banana,0.016889085352376744,0.31401445373388126
+produce,Small Hass Avocado,Banana,0.006592535573017095,0.2911477616963985
+produce,Organic Granny Smith Apple,Bag of Organic Bananas,0.0049539284652729615,0.2877379371403276
+produce,Organic Ginger Root,Bag of Organic Bananas,0.003711635634750665,0.25064333504889347
+produce,Organic Raspberries,Organic Strawberries,0.012727785441547455,0.3161681181370693
+produce,Seedless Red Grapes,Banana,0.008856099810226432,0.30331506134168623
+produce,Organic Lemon,Bag of Organic Bananas,0.00813206411145577,0.3161481481481481
+produce,Organic Red Bell Pepper,Bag of Organic Bananas,0.004793878468702604,0.2673183170420739
+produce,Organic Lacinato (Dinosaur) Kale,Bag of Organic Bananas,0.0034601284972829607,0.2633410672853828
+produce,Organic Blueberries,Organic Strawberries,0.009671592649894444,0.270460358056266
+produce,Red Raspberries,Banana,0.003345807071161277,0.3044382801664355
+produce,Limes,Large Lemon,0.012156178310939037,0.27523727351164795
+produce,Hass Avocados,Bag of Organic Bananas,0.004222271338094186,0.27277203348104384
+produce,Organic Broccoli,Bag of Organic Bananas,0.004001249914258931,0.3285356695869837
+produce,Organic Carrot Bunch,Bag of Organic Bananas,0.0035439642097721954,0.272887323943662
+produce,Large Lemon,Banana,0.016447042504706234,0.27705738862498397
+produce,Organic Fuji Apple,Banana,0.009221928373815821,0.3971119133574007
+produce,Yellow Bell Pepper,Orange Bell Pepper,0.0030180856496124504,0.3413793103448276
+produce,Yellow Onions,Banana,0.008162549825088218,0.29577464788732394
+produce,Bunched Cilantro,Limes,0.0042527570517266345,0.29935622317596566
+produce,Jalapeno Peppers,Limes,0.0041689213392374,0.29776810016330973
+produce,Organic Kiwi,Organic Strawberries,0.003940278486994032,0.28067318132464714
+produce,Organic Large Extra Fancy Fuji Apple,Bag of Organic Bananas,0.0074156498410932175,0.35420458682198763
+produce,Cucumber Kirby,Banana,0.0056627213072274005,0.31970740103270223
+produce,Organic D'Anjou Pears,Bag of Organic Bananas,0.004603342758499798,0.3256064690026954
+produce,Organic D'Anjou Pears,Organic Strawberries,0.003643042779077655,0.25768194070080863
+produce,Grape White/Green Seedless,Banana,0.003063814220061124,0.27534246575342464
+produce,Organic Tomato Cluster,Bag of Organic Bananas,0.004839607039151278,0.25677315002021833
+produce,Organic Gala Apples,Bag of Organic Bananas,0.006173357010570921,0.3003337041156841
+produce,Organic Navel Orange,Bag of Organic Bananas,0.0055255355958813805,0.37662337662337664
+produce,Organic Blackberries,Banana,0.005258785601597452,0.2526547052361772
+produce,Organic Kiwi,Bag of Organic Bananas,0.004984414178905411,0.3550488599348534
+produce,Broccoli Crown,Banana,0.00704982127750383,0.3259337561663143
+produce,Orange Bell Pepper,Banana,0.003711635634750665,0.26568466993998907
+beverages,Lime Sparkling Water,Sparkling Water Grapefruit,0.0038488213460966853,0.35045107564191535
